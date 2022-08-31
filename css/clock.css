@@ -1,0 +1,27 @@
+.num{
+    font-size: 18rem;
+}
+.bolder{
+    background-color: #00314F;
+    height: 100%;
+    color:#FCE4A8;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+}
+.container{
+    margin: 0 auto;
+    height: 100%;
+}
+body{
+    background-color: #FCE4A8;
+}
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.row{
+    height: 100%;
+}
